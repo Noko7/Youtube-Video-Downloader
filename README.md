@@ -3,7 +3,7 @@ Download Any Video for Free
 
 ![image](https://user-images.githubusercontent.com/120352080/232119872-32d7336a-da9f-4fa7-9c3d-acf120e381be.png)
 
-This is a simple YouTube Video downloader application built with Python and tkinter. It allows users to easily download any video from YouTube and save it to their local machine. 
+This is a simple YouTube Video downloader application built with Python and tkinter. It allows users to easily download any video from YouTube and save it to their local machine. NO ADS.
 
 ## Requirements
 - Python 3.x
